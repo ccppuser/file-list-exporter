@@ -1,7 +1,7 @@
 # file-list-exporter
 FileListExporter allows you to select and export file list without having physical files on your drive
 
-<An example of using FileListExporter>
+# An example of using FileListExporter
 
 An employee wants to back up private data later after leaving the company, and the company does not want to leak any of its important information or data.
 In this case, the company uses "SpaceSniffer" to send a folder hierarchy and file list in a specific folder on the disk of the PC used by the employee to the employee.
@@ -12,7 +12,7 @@ The company uses "FileListExporeter" to exclude the company's assets from the li
 Download SpaceSniffer: http://www.uderzo.it/main_products/space_sniffer/
 Download FastCopy: https://fastcopy.jp/en/
 
-<How to use>
+# How to use
 
 1. Export a folder hierarchy and file list using SpaceSniffer
 - Run SpaceSniffer
